@@ -1,7 +1,11 @@
-# Пре-альфа версия, сделано наспех, чисто чтобы работало...
+"""
+NNSTU IRIT 16-V-2
+Student: Shunin Kirill
+1 10 2019
+"""
 import random
 # Пользовательские данные
-word = 'Hello World!'
+word = 'My name is Shunin Kirill'
 # Супервозрастающая последовательность
 w = (2, 7, 11, 21, 42, 89, 180, 390)
 
