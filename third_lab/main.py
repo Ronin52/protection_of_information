@@ -5,7 +5,7 @@ Student: Shunin Kirill
 """
 import random
 # Пользовательские данные
-word = 'My name is Shunin Kirill'
+word = 'Our name is Shunin Kirill and Mary BABY-NOVA'
 # Супервозрастающая последовательность
 w = (2, 7, 11, 21, 42, 89, 180, 390)
 
