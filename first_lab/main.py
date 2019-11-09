@@ -7,6 +7,7 @@ from collections import Counter
 #алфавит строчных и заглавных букв
 ru_alph = "абвгдеёжзийклмнопрстуфхцчшщъыьэюя"
 RU_alph = "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ"
+#fixed
 #функция кодирования кодом Цезаря
 def encode(file, shift, write_file = True):
     """
